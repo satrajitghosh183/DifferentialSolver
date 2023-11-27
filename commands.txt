@@ -1,0 +1,8 @@
+python -m flask run --without-threads
+https://github.com/rtqichen/torchdiffeq
+https://github.com/matheuscr30/Handwritten-Equation-Recognition---CNN
+https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols
+https://www.kaggle.com/datasets/scaomath/pde-dataset
+https://www.math.arizona.edu/~dsl/datall.htm
+https://www.kaggle.com/datasets?search=math
+https://www.wolframalpha.com/examples/mathematics/calculus-and-analysis
